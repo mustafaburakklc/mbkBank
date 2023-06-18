@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\mbkBank\mbkBank\bin\Debug\mbkBank.exe.config
+C:\Users\PC\source\repos\mbkBank\mbkBank\bin\Debug\mbkBank.exe
+C:\Users\PC\source\repos\mbkBank\mbkBank\bin\Debug\mbkBank.pdb
+C:\Users\PC\source\repos\mbkBank\mbkBank\obj\Debug\mbkBank.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\mbkBank\mbkBank\obj\Debug\mbkBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\mbkBank\mbkBank\obj\Debug\mbkBank.Properties.Resources.resources
+C:\Users\PC\source\repos\mbkBank\mbkBank\obj\Debug\mbkBank.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\mbkBank\mbkBank\obj\Debug\mbkBank.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\mbkBank\mbkBank\obj\Debug\mbkBank.exe
+C:\Users\PC\source\repos\mbkBank\mbkBank\obj\Debug\mbkBank.pdb
+C:\Users\PC\source\repos\mbkBank\mbkBank\obj\Debug\mbkBank.MbkBank.resources
